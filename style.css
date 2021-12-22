@@ -1,0 +1,147 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+   
+}
+
+h1{
+    font-size:70px;
+    font-weight: bold;
+}
+.sec-h1{
+    color: red;
+}
+.first-part{
+    width: 30%;
+    float: left;
+    margin-left: 8%;
+    padding-left:2%;
+    margin-top: 8%;
+  
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,red);
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold; 
+        
+}
+section{
+    height: 700px;
+    border: 0px solid red;
+}
+.half-width{
+    background-image: url("images/header-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+   
+}
+p{
+   text-align: justify;
+   margin-bottom:10%; 
+}
+.second-width{
+
+ background-image: url("images/biography-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.second-part{
+
+    width: 25%;
+    height: 30%;
+    float: left;
+    margin: 2%;
+}
+.image{
+    float: left;
+    width: 30%;
+    margin: 20px;
+ 
+   
+}
+.image #pic{
+    width: 100%;
+    height: 300px;
+   
+}
+.h2-pic{
+    text-align: center;
+    margin-bottom:6%;
+    margin-top:6%;
+    font-size:bold;
+}
+.container{
+    margin-left: 8%;
+    margin-right: 8%;
+    
+}
+.third-width{
+    background-image: url("images/latest-work-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.page4{
+    text-align: center;
+    margin-top:100px;
+    font-size:40px ;
+    font-weight:bold;
+}
+.page5{
+    text-align: center;
+    font-size:25px;
+    font-weight:bold;
+  
+}
+.page6{
+font-size: 12px;
+text-align:center;
+}
+.align{
+    text-align:center;
+    margin-bottom: 40px;
+}
+.pages-is{
+    width: 30%;
+    height: 0px;
+    text-align:justify;
+    margin-left: 35%;
+    font-weight: bold;
+}
+.sadik-saheb{
+    text-align:center;
+    padding-top:20px;
+   
+  
+}
+#sadik{
+    background-image: linear-gradient(45deg,lightsalmon,red);
+   width: 40%;
+   margin-left:30%;
+   border-radius:10px;
+   height:100px;
+
+    
+}
+.boss{
+   font-size:12px;font-weight:bold;
+}
+.bossb{
+    font-size: 25px;
+    font-weight:bold;
+}
+.fourth-width{
+    background-image: url("images/footer-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
